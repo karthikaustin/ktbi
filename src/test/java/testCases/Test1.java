@@ -29,7 +29,7 @@ public class Test1 {
 		for(int i=0;i<li.size();i++)
 		{
 			
-		String s =	li.get(i).getAttribute("title");
+		String s =	li.get(i).getAttribute("title2");
 		System.out.println(s);
 		 al = new HashMap<Integer,String>();
 		al.put(i, s);
