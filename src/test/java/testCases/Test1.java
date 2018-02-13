@@ -33,7 +33,7 @@ public class Test1 {
 		System.out.println(s);
 		 al = new HashMap<Integer,String>();
 		al.put(i, s);
-//		driver.findElement(By.xpath("//*[text()='"+s+"']")).sendKeys(Keys.ARROW_DOWN,Keys.ARROW_DOWN,Keys.ARROW_DOWN);
+////		driver.findElement(By.xpath("//*[text()='"+s+"']")).sendKeys(Keys.ARROW_DOWN,Keys.ARROW_DOWN,Keys.ARROW_DOWN);
 //		driver.findElement(By.xpath("//*[text()='"+s+"']")).click();
 //		driver.findElement(By.xpath(".//*[@id='menu-item-40']/a")).click();
 //		Thread.sleep(2000);
