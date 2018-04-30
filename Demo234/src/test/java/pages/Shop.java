@@ -11,7 +11,7 @@ public class Shop {
 	
 	public Shop(WebDriver driver)
 	{
-		this.driver = driver;
+		this.driver = driver;// demo testing for branch
 		PageFactory.initElements(driver, this);
 		
 	}
